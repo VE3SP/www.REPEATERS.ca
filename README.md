@@ -6,5 +6,5 @@ Toronto, Ontario Amateur Radio Repeaters
 
 underdevelopment just a simple redirect 
 
-yahn
+yawn
 
